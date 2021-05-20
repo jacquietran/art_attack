@@ -58,8 +58,7 @@ ggplot(traces2) +
   scale_color_identity(guide = "none") +
   theme_void() +
   theme(legend.position = 'none', panel.background = element_rect(fill = bl_yl_bg)) +
-  coord_cartesian(xlim = c(xmin, xmax),
-                  ylim = c(ymin, ymax))
+  coord_cartesian(xlim = c(xmin, xmax), ylim = c(ymin, ymax))
 
 # export to file
 ggsave(here("flow_fields/everything/flow_fields_202105192329.png"),
