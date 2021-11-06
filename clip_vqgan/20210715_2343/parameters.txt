@@ -1,0 +1,6 @@
+textos: midnight neon tokyo cyberpunk unreal engine fog
+ancho: 480
+alto: 480
+intervalo_imagenes: 10
+seed: -1
+max_interaciones: 50

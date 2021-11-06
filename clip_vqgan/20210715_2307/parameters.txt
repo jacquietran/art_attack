@@ -1,0 +1,6 @@
+textos: dark colour field rothko matisse haze fog barnett newman
+ancho: 480
+alto: 480
+intervalo_imagenes: 5
+seed: -1
+max_interaciones: 75

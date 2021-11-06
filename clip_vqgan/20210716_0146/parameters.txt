@@ -1,0 +1,6 @@
+textos: jackson pollock
+ancho: 450
+alto: 338
+intervalo_imagenes: 5
+seed: 2910
+max_interaciones: 50

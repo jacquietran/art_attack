@@ -1,0 +1,6 @@
+textos: gold black rothko
+ancho: 450
+alto: 338
+intervalo_imagenes: 5
+seed: -1
+max_interaciones: 50

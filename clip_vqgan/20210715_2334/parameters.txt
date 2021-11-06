@@ -1,0 +1,6 @@
+textos: ocean traffic fog henri matisse arshile gorky
+ancho: 480
+alto: 480
+intervalo_imagenes: 5
+seed: -1
+max_interaciones: 75

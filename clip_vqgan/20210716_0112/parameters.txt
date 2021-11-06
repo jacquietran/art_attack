@@ -1,0 +1,6 @@
+textos: young person studying at desk in style of ukiyo-e japanese art
+ancho: 450
+alto: 338
+intervalo_imagenes: 5
+seed: -1
+max_interaciones: 75

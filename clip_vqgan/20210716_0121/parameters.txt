@@ -1,0 +1,6 @@
+textos: sakura cherry blossom in style of ukiyo-e japanese art
+ancho: 450
+alto: 338
+intervalo_imagenes: 10
+seed: -1
+max_interaciones: 100
